@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:a1:e7:d2:00:00:00:00:51:d3:66:a6
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2009 Entrust, Inc. - for authorized use only", CN = Entrust Root Certification Authority - G2
+        Validity
+            Not Before: Dec 15 15:25:03 2014 GMT
+            Not After : Oct 15 15:55:03 2030 GMT
+        Subject: C = US, O = "Entrust, Inc.", OU = See www.entrust.net/legal-terms, OU = "(c) 2014 Entrust, Inc. - for authorized use only", CN = Entrust Certification Authority - L1M
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d0:81:c1:39:23:c2:b1:d1:ec:f7:57:dd:55:24:
+                    36:91:20:22:48:f7:fc:ca:52:0a:b0:ab:3f:33:b5:
+                    b0:84:07:f6:df:4e:7a:b0:fb:98:22:3d:01:ac:56:
+                    fb:71:6d:b2:ee:b9:a0:0f:52:77:ab:98:93:be:33:
+                    8a:eb:87:5e:c7:aa:b0:ca:69:8f:43:08:6a:3f:22:
+                    bf:33:39:46:d5:94:f2:e2:4c:05:22:d9:67:80:91:
+                    f1:04:4a:0e:9b:7c:a2:c9:d2:6c:fd:3c:09:84:bd:
+                    fd:6b:14:9a:81:1d:e7:8a:83:ef:61:16:75:47:98:
+                    13:3b:0d:90:16:98:bf:8a:e2:27:32:53:99:99:c3:
+                    fb:96:1c:35:f7:62:ed:8c:bd:49:71:d2:43:43:a1:
+                    a1:e3:21:2a:23:70:a8:75:3d:b2:6c:46:06:61:6f:
+                    18:67:e4:29:7e:b2:3c:c1:c5:5f:09:1e:6e:44:4e:
+                    ec:21:99:58:15:48:f4:55:48:2a:b7:34:b4:05:e3:
+                    7c:49:8c:00:58:de:3a:96:cc:39:dc:61:33:55:ce:
+                    2a:2e:3f:d1:99:62:e8:aa:e6:34:76:31:aa:af:79:
+                    29:96:78:cb:81:14:af:69:da:fb:04:b9:59:83:44:
+                    aa:09:4f:b4:d4:2c:01:9d:9b:94:31:6b:2d:a1:cf:
+                    c1:e5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.entrust.net
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://crl.entrust.net/g2ca.crl
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: http://www.entrust.net/rpa
+            X509v3 Subject Key Identifier: 
+                C3:F7:D0:B5:2A:30:AD:AF:0D:91:21:70:39:54:DD:BC:89:70:C7:3A
+            X509v3 Authority Key Identifier: 
+                6A:72:26:7A:D0:1E:EF:7D:E7:3B:69:51:D4:6C:8D:9F:90:12:66:AB
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        b4:87:c7:84:22:1a:29:c0:a4:78:ec:f5:4f:1b:b4:84:97:6f:
+        77:ee:d4:cf:59:af:a8:43:96:2f:1d:58:de:a6:f3:15:5b:2e:
+        d9:43:9c:4c:42:b9:17:17:11:ad:b4:b1:41:c7:66:0c:22:86:
+        05:a7:b4:22:fb:c5:68:68:8a:88:32:d8:71:d6:11:8e:8e:52:
+        7e:42:09:5d:d9:d9:c0:0e:2c:ef:44:6b:1f:db:24:bc:f5:bc:
+        b1:aa:c1:8a:e5:66:db:d0:24:f3:df:89:a6:8b:fe:5e:d0:50:
+        ba:9b:75:00:c9:08:4a:4b:74:3f:58:53:af:f6:b8:a1:6c:84:
+        98:26:7c:fc:fc:35:51:65:98:1e:3b:6c:76:f0:99:0f:c4:b9:
+        09:d5:85:d8:24:a7:7f:2a:c2:da:93:4b:64:b8:70:7c:54:29:
+        d3:82:54:d5:cf:a5:94:c3:33:9e:4d:34:67:e0:38:76:66:00:
+        8d:d0:2f:c6:ab:09:aa:72:fa:ce:2f:35:89:fc:c0:ed:06:03:
+        b7:df:8c:25:57:f1:fb:ef:28:88:d9:82:28:c0:04:0f:94:81:
+        69:23:e0:91:28:c5:5e:d5:0c:d7:d4:20:3b:ef:c9:f8:c0:8f:
+        a7:41:cd:57:44:6e:6c:67:62:fe:84:df:e7:60:d8:ef:bf:d4:
+        22:1e:0d:e7
