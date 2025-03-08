@@ -4,3 +4,6 @@
 # Documents
 *.md
 *.pdf
+
+# Cache
+Thumbs.db
