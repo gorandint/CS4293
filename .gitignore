@@ -2,7 +2,8 @@
 *.exe
 
 # Documents
-*.md
+*-*-*.md
+*_*_*.md
 *.pdf
 
 # Cache
