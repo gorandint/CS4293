@@ -2,9 +2,8 @@
 *.exe
 
 # Documents
-*-*-*.md
 *_*_*.md
-*.pdf
+*_*_*.pdf
 
 # Cache
 Thumbs.db
